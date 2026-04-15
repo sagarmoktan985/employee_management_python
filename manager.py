@@ -1,6 +1,3 @@
-#SAGAR_MOKTAN_TAMANG, SAROJ_SHRESTHA, BASANTA_SHRESTHA, UJJWAL_SHRESTHA
-# NPO71219, NP071343, NP071293, NP071311
-
 from functions import add_employee, view_employees, delete_employee, view_enquiry, reset_manager_password, edit_manager_profile, search_employees
 
 # MANAGER LOGIN
